@@ -1,6 +1,6 @@
 # Shooting Game
 
-Welcome to the **Shooting Game** repository! This project is written primarily in Pascal and is designed to demonstrate a shooting game with essential game mechanics. Below, you'll find all the necessary information to get started with the project.
+Welcome to the **Shooting Game** repository! This project is written primarily in C++ and is designed to demonstrate a shooting game with essential game mechanics. Below, you'll find all the necessary information to get started with the project.
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@ This repository contains the source code for a shooting game implemented in C++ 
 ## Getting Started
 ### Prerequisites
 To work on this project, you need:
-- A C++ Builder IDE
+- C++ Builder IDE
 
 ### Installation
 1. Clone this repository from the IDE or terminal:

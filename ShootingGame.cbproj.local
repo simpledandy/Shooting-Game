@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/14 10:12:00.000.515,=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/05/14 10:12:00.000.279,=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/05/14 10:12:57.000.566,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\ShootingGamePCH1.h</Transaction>
+    <Transaction>2025/05/14 10:12:57.000.605,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\ShootingGame.cbproj</Transaction>
+    <Transaction>2025/05/14 10:12:57.000.592,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.h</Transaction>
+    <Transaction>2025/05/14 10:12:57.000.592,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.cpp</Transaction>
+    <Transaction>2025/05/14 10:12:57.000.592,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.dfm</Transaction>
+    <Transaction>2025/05/14 10:13:47.000.815,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.cpp=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\ShootingGameUnit.cpp</Transaction>
+    <Transaction>2025/05/14 10:13:47.000.815,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.h=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\ShootingGameUnit.h</Transaction>
+    <Transaction>2025/05/14 10:13:47.000.815,C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\Unit1.dfm=C:\Users\kenja\Documents\Embarcadero\Studio\Projects\Game\ShootingGameUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

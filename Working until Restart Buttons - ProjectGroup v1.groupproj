@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{9FC96C44-2FE9-4149-AAE8-D6E48B5B2213}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ShootingGame.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ShootingGame">
+        <MSBuild Projects="ShootingGame.cbproj"/>
+    </Target>
+    <Target Name="ShootingGame:Clean">
+        <MSBuild Projects="ShootingGame.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ShootingGame:Make">
+        <MSBuild Projects="ShootingGame.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ShootingGame"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ShootingGame:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ShootingGame:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
